@@ -10,6 +10,9 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com" />
+  
+ <remote  name="Android4Lumia950"
+           fetch="https://github.com/Android4Lumia950" />
 
   <remote  name="omnirom"
            review="gerrit.omnirom.org"
